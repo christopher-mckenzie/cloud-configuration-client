@@ -17,4 +17,4 @@
     
 ## tutorial
 
-* documentation: https://spring.io/guides/gs/centralized-configuration/
+* [documentation](https://spring.io/guides/gs/centralized-configuration/)
